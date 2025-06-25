@@ -1,0 +1,7 @@
+
+
+1.好幾個月份資料 合併CSV檔
+2.去另外一個節日DATASET 新增資料至剛剛的CSV檔 https://data.taipei/dataset/detail?id=c30ca421-d935-4faa-b523-9c175c8de738
+3.新增相關欄位 EX 星期、月份、寒暑假 主要特徵
+
+最終檔案為combined_with_holiday
